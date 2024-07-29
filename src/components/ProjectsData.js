@@ -7,7 +7,7 @@ import CAINTUT from "../images/ProjectsData/CAIN TUTORIAL classes.jpg";
 import Christmas from "../images/christmas/IMG4.jpg";
 import CEP from "../images/Gallery/CAREER/B (3).jpg";
 import EYT from "../images/Gallery/CAREER/B (3).jpg";
-import MFD from "../images/ProjectsData/FoodDriveCover.HEIC";
+import MFD from "../images/ProjectsData/FoodDriveCover.png";
 import CLI from "../images/ProjectsData/LibraryInitiative2.jpg";
 import ICT from "../images/ProjectsData/ICT4UCover.jpg";
 
@@ -100,7 +100,7 @@ const ProjectData = [
     description:
       "A library is an invaluable resource for students, offering access to a vast array of information and educational materials essential for research, study, and completing assignments. However, many underprivileged students lack access to libraries, as their schools often do not have such facilities, and their homes are typically not conducive to learning.",
     status: "Ongoing",
-    link: "/projects/ProjectLibrary",
+    link: "/projects/project-library",
   },
   {
     index: 11,
@@ -109,7 +109,7 @@ const ProjectData = [
     description:
       "By 2030, 230 million jobs in Sub-Saharan Africa will require digital skills. Shockingly, over 60% of African students currently lack basic digital training, and only 50% of African countries include 'computer' skills in their school curriculum. These alarming statistics highlight a significant digital skills shortage, necessitating urgent action. This led to the launch of the ICT4U Program...",
     status: "Ongoing",
-    link: "/projects/ict-for-underprivileged",
+    link: "/projects/ict4u",
   },
 ];
 

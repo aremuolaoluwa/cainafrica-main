@@ -5,7 +5,7 @@ import LibraryInitiative2 from '../images/ProjectsData/LibraryInitiative2.jpg';
 import Toolbar from './Toolbar/Toolbar.js';
 import projectsCover from '../images/ProjectsData/projectsCover.jpg';
 
-const ProjectArise = (props) => {
+const ProjectLibrary = (props) => {
 
 
     return(
@@ -38,12 +38,12 @@ const ProjectArise = (props) => {
                 <MediaWrapper>
                     <SingleImage>
                         <PostImage src={`${LibraryInitiative}`} />
-                        <i style={{padding: '1rem 0'}}>A classroom at  Ijegun Community Primary School 1</i>
+                        <i style={{padding: '1rem 0'}}>Group of students reading in the library.</i>
                     </SingleImage>
                     
                     <SingleImage>
                         <PostImage src={`${LibraryInitiative2}`}/>
-                        <i style={{padding: '1rem 0'}}>Members of our team with some school officials and students after donating whiteboards, stationery and books to Ijegun Community Primary School 1</i>
+                        <i style={{padding: '1rem 0'}}>Group of students reading in the library.</i>
                     </SingleImage>
 
                 </MediaWrapper>
@@ -53,4 +53,4 @@ const ProjectArise = (props) => {
     )
 }
 
-export default ProjectArise;
+export default ProjectLibrary;
